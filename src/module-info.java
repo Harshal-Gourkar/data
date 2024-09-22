@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author icomputer
+ *
+ */
+module A {
+}
